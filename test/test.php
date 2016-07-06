@@ -31,7 +31,7 @@
                     "brainkit:draw",
                     "",
                     Array(
-                         "HL_BLOCK_DRAW_ID" => 3,
+                         "HL_BLOCK_DRAW_ID" => HL_BLOCK_DRAW_ID
                     )
                 );   
 ?>
